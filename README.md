@@ -1,1 +1,1 @@
-# frontAirBnB
+Web static folder
